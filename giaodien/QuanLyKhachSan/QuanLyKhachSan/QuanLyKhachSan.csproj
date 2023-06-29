@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{23BE333B-0522-4B4F-9F65-D4E80935058F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>QuanLyKhachSan</RootNamespace>
+    <AssemblyName>QuanLyKhachSan</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin.Designer.cs">
+      <DependentUpon>admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DAO\BillDAO.cs" />
+    <Compile Include="DAO\BillInfoDAO.cs" />
+    <Compile Include="DAO\CategoryRoom.cs" />
+    <Compile Include="DAO\CT_PHIEUTHUEPHONGDAO.cs" />
+    <Compile Include="DAO\KindGuestDAO.cs" />
+    <Compile Include="DAO\KindOfRoomDAO.cs" />
+    <Compile Include="DAO\PHIEUTHUEPHONG.cs" />
+    <Compile Include="DAO\RoomDAO.cs" />
+    <Compile Include="DAO\RoomTypeDAO.cs" />
+    <Compile Include="DAO\TiLePhuThuDAO.cs" />
+    <Compile Include="DAO\VoucherDAO.cs" />
+    <Compile Include="DAO\VoucherInfoDAO.cs" />
+    <Compile Include="DTO\Bill.cs" />
+    <Compile Include="DTO\CT_PhieuThuePhongDTO.cs" />
+    <Compile Include="DTO\KindGuest.cs" />
+    <Compile Include="DTO\KindOfRoom.cs" />
+    <Compile Include="DTO\PhieuThuePhong.cs" />
+    <Compile Include="DTO\Room.cs" />
+    <Compile Include="DTO\RoomType.cs" />
+    <Compile Include="DTO\TiLePhuThu.cs" />
+    <Compile Include="DTO\Voucher.cs" />
+    <Compile Include="DTO\VoucherInfo.cs" />
+    <Compile Include="Info_Room.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Info_Room.Designer.cs">
+      <DependentUpon>Info_Room.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DAO\AccountDAO.cs" />
+    <Compile Include="DAO\DataProvider.cs" />
+    <Compile Include="dataprovider.cs" />
+    <Compile Include="Dataprovider1.cs" />
+    <Compile Include="KindOfRoom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KindOfRoom.Designer.cs">
+      <DependentUpon>KindOfRoom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PhieuThuePhongForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PhieuThuePhongForm.Designer.cs">
+      <DependentUpon>PhieuThuePhongForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QuanLyKhachSanDataSet.cs">
+      <DependentUpon>QuanLyKhachSanDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QuanLyKhachSanDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QuanLyKhachSanDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="RoomKind.cs" />
+    <Compile Include="RoomRentVoucher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RoomRentVoucher.Designer.cs">
+      <DependentUpon>RoomRentVoucher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TableManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TableManager.Designer.cs">
+      <DependentUpon>TableManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TraCuuPhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TraCuuPhong.Designer.cs">
+      <DependentUpon>TraCuuPhong.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="admin.resx">
+      <DependentUpon>admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Info_Room.resx">
+      <DependentUpon>Info_Room.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KindOfRoom.resx">
+      <DependentUpon>KindOfRoom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PhieuThuePhongForm.resx">
+      <DependentUpon>PhieuThuePhongForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RoomRentVoucher.resx">
+      <DependentUpon>RoomRentVoucher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TableManager.resx">
+      <DependentUpon>TableManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TraCuuPhong.resx">
+      <DependentUpon>TraCuuPhong.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="QuanLyKhachSanDataSet.xsc">
+      <DependentUpon>QuanLyKhachSanDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="QuanLyKhachSanDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QuanLyKhachSanDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QuanLyKhachSanDataSet.xss">
+      <DependentUpon>QuanLyKhachSanDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

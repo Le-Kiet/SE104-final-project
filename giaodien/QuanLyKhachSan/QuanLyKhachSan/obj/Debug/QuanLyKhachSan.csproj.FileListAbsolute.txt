@@ -1,0 +1,140 @@
+C:\Users\Admin\Desktop\projectsoftware\giaodien\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+C:\Users\Admin\Desktop\projectsoftware\giaodien\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+C:\Users\Admin\Desktop\projectsoftware\giaodien\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+C:\Users\Admin\Desktop\projectsoftware\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\projectsoftware\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.LoginForm.resources
+C:\Users\Admin\Desktop\projectsoftware\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+C:\Users\Admin\Desktop\projectsoftware\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\projectsoftware\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+C:\Users\Admin\Desktop\projectsoftware\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+C:\Users\Admin\Desktop\projectsoftware\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.TableManager.resources
+C:\Users\Admin\Desktop\projectsoftware\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.admin.resources
+D:\OneDrive - UIT - University of Information Technology\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\Thư mục mới\SE104_project\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\soft_ware_engineer\SE104_project\giaodien\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+C:\Users\Admin\Desktop\soft_ware_engineer\SE104_project\giaodien\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+C:\Users\Admin\Desktop\soft_ware_engineer\SE104_project\giaodien\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+C:\Users\Admin\Desktop\soft_ware_engineer\SE104_project\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\soft_ware_engineer\SE104_project\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.admin.resources
+C:\Users\Admin\Desktop\soft_ware_engineer\SE104_project\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Form1.resources
+C:\Users\Admin\Desktop\soft_ware_engineer\SE104_project\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.LoginForm.resources
+C:\Users\Admin\Desktop\soft_ware_engineer\SE104_project\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+C:\Users\Admin\Desktop\soft_ware_engineer\SE104_project\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.TableManager.resources
+C:\Users\Admin\Desktop\soft_ware_engineer\SE104_project\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\soft_ware_engineer\SE104_project\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+C:\Users\Admin\Desktop\soft_ware_engineer\SE104_project\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+C:\Users\Admin\Desktop\soft_ware_engineer\SE104_project\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Info_Room.resources
+C:\Users\Admin\Desktop\SE104-\SE104-\giaodien\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+C:\Users\Admin\Desktop\SE104-\SE104-\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+C:\Users\Admin\Desktop\SE104-\SE104-\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+C:\Users\Admin\Desktop\SE104-\SE104-\giaodien\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+C:\Users\Admin\Desktop\SE104-\SE104-\giaodien\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+C:\Users\Admin\Desktop\SE104-\SE104-\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\SE104-\SE104-\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.admin.resources
+C:\Users\Admin\Desktop\SE104-\SE104-\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Info_Room.resources
+C:\Users\Admin\Desktop\SE104-\SE104-\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Form1.resources
+C:\Users\Admin\Desktop\SE104-\SE104-\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.LoginForm.resources
+C:\Users\Admin\Desktop\SE104-\SE104-\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+C:\Users\Admin\Desktop\SE104-\SE104-\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.TableManager.resources
+C:\Users\Admin\Desktop\SE104-\SE104-\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\se104-tri\giaodien\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+C:\Users\Admin\Desktop\se104-tri\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+C:\Users\Admin\Desktop\se104-tri\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+C:\Users\Admin\Desktop\se104-tri\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\se104-tri\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.admin.resources
+C:\Users\Admin\Desktop\se104-tri\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Info_Room.resources
+C:\Users\Admin\Desktop\se104-tri\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Form1.resources
+C:\Users\Admin\Desktop\se104-tri\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.LoginForm.resources
+C:\Users\Admin\Desktop\se104-tri\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+C:\Users\Admin\Desktop\se104-tri\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.TableManager.resources
+C:\Users\Admin\Desktop\se104-tri\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\se104-tri\giaodien\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+C:\Users\Admin\Desktop\se104-tri\giaodien\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+C:\Users\Admin\Desktop\se104-tri\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.RoomRentVoucher.resources
+C:\Users\Admin\Desktop\final_SE104\giaodien\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+C:\Users\Admin\Desktop\final_SE104\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+C:\Users\Admin\Desktop\final_SE104\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+C:\Users\Admin\Desktop\final_SE104\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\final_SE104\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.admin.resources
+C:\Users\Admin\Desktop\final_SE104\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Info_Room.resources
+C:\Users\Admin\Desktop\final_SE104\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Form1.resources
+C:\Users\Admin\Desktop\final_SE104\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.LoginForm.resources
+C:\Users\Admin\Desktop\final_SE104\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+C:\Users\Admin\Desktop\final_SE104\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.RoomRentVoucher.resources
+C:\Users\Admin\Desktop\final_SE104\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.TableManager.resources
+C:\Users\Admin\Desktop\final_SE104\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\final_SE104\giaodien\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+C:\Users\Admin\Desktop\final_SE104\giaodien\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+C:\Users\Admin\Desktop\final_SE104\saukhiaddcuarminh\giaodien\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+C:\Users\Admin\Desktop\final_SE104\saukhiaddcuarminh\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+C:\Users\Admin\Desktop\final_SE104\saukhiaddcuarminh\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+C:\Users\Admin\Desktop\final_SE104\saukhiaddcuarminh\giaodien\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+C:\Users\Admin\Desktop\final_SE104\saukhiaddcuarminh\giaodien\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+C:\Users\Admin\Desktop\final_SE104\saukhiaddcuarminh\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\final_SE104\saukhiaddcuarminh\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.admin.resources
+C:\Users\Admin\Desktop\final_SE104\saukhiaddcuarminh\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Info_Room.resources
+C:\Users\Admin\Desktop\final_SE104\saukhiaddcuarminh\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Form1.resources
+C:\Users\Admin\Desktop\final_SE104\saukhiaddcuarminh\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.LoginForm.resources
+C:\Users\Admin\Desktop\final_SE104\saukhiaddcuarminh\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+C:\Users\Admin\Desktop\final_SE104\saukhiaddcuarminh\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.RoomRentVoucher.resources
+C:\Users\Admin\Desktop\final_SE104\saukhiaddcuarminh\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.TableManager.resources
+C:\Users\Admin\Desktop\final_SE104\saukhiaddcuarminh\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\final_SE104\saukhiaddcuarminh\se104\giaodien\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+C:\Users\Admin\Desktop\final_SE104\saukhiaddcuarminh\se104\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+C:\Users\Admin\Desktop\final_SE104\saukhiaddcuarminh\se104\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+C:\Users\Admin\Desktop\final_SE104\saukhiaddcuarminh\se104\giaodien\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+C:\Users\Admin\Desktop\final_SE104\saukhiaddcuarminh\se104\giaodien\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+C:\Users\Admin\Desktop\final_SE104\saukhiaddcuarminh\se104\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\final_SE104\saukhiaddcuarminh\se104\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.admin.resources
+C:\Users\Admin\Desktop\final_SE104\saukhiaddcuarminh\se104\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Info_Room.resources
+C:\Users\Admin\Desktop\final_SE104\saukhiaddcuarminh\se104\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Form1.resources
+C:\Users\Admin\Desktop\final_SE104\saukhiaddcuarminh\se104\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.LoginForm.resources
+C:\Users\Admin\Desktop\final_SE104\saukhiaddcuarminh\se104\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+C:\Users\Admin\Desktop\final_SE104\saukhiaddcuarminh\se104\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.RoomRentVoucher.resources
+C:\Users\Admin\Desktop\final_SE104\saukhiaddcuarminh\se104\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.TableManager.resources
+C:\Users\Admin\Desktop\final_SE104\saukhiaddcuarminh\se104\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\final_SE104\saukhiaddcuayduy\New folder\se104\giaodien\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+C:\Users\Admin\Desktop\final_SE104\saukhiaddcuayduy\New folder\se104\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+C:\Users\Admin\Desktop\final_SE104\saukhiaddcuayduy\New folder\se104\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+C:\Users\Admin\Desktop\final_SE104\saukhiaddcuayduy\New folder\se104\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\final_SE104\saukhiaddcuayduy\New folder\se104\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.admin.resources
+C:\Users\Admin\Desktop\final_SE104\saukhiaddcuayduy\New folder\se104\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Info_Room.resources
+C:\Users\Admin\Desktop\final_SE104\saukhiaddcuayduy\New folder\se104\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Form1.resources
+C:\Users\Admin\Desktop\final_SE104\saukhiaddcuayduy\New folder\se104\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.LoginForm.resources
+C:\Users\Admin\Desktop\final_SE104\saukhiaddcuayduy\New folder\se104\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+C:\Users\Admin\Desktop\final_SE104\saukhiaddcuayduy\New folder\se104\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.RoomRentVoucher.resources
+C:\Users\Admin\Desktop\final_SE104\saukhiaddcuayduy\New folder\se104\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.TableManager.resources
+C:\Users\Admin\Desktop\final_SE104\saukhiaddcuayduy\New folder\se104\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\final_SE104\saukhiaddcuayduy\New folder\se104\giaodien\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+C:\Users\Admin\Desktop\final_SE104\saukhiaddcuayduy\New folder\se104\giaodien\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+C:\Users\Admin\Desktop\final_SE104\saukhiaddcuayduy\New folder\se104\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.PhieuThuePhongForm.resources
+C:\Users\Admin\Desktop\tailieuhoctap\ki2nam3\nmcnpm\final\final\giaodien\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+C:\Users\Admin\Desktop\tailieuhoctap\ki2nam3\nmcnpm\final\final\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+C:\Users\Admin\Desktop\tailieuhoctap\ki2nam3\nmcnpm\final\final\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+C:\Users\Admin\Desktop\tailieuhoctap\ki2nam3\nmcnpm\final\final\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\tailieuhoctap\ki2nam3\nmcnpm\final\final\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.admin.resources
+C:\Users\Admin\Desktop\tailieuhoctap\ki2nam3\nmcnpm\final\final\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Info_Room.resources
+C:\Users\Admin\Desktop\tailieuhoctap\ki2nam3\nmcnpm\final\final\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Form1.resources
+C:\Users\Admin\Desktop\tailieuhoctap\ki2nam3\nmcnpm\final\final\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.LoginForm.resources
+C:\Users\Admin\Desktop\tailieuhoctap\ki2nam3\nmcnpm\final\final\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.PhieuThuePhongForm.resources
+C:\Users\Admin\Desktop\tailieuhoctap\ki2nam3\nmcnpm\final\final\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+C:\Users\Admin\Desktop\tailieuhoctap\ki2nam3\nmcnpm\final\final\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.RoomRentVoucher.resources
+C:\Users\Admin\Desktop\tailieuhoctap\ki2nam3\nmcnpm\final\final\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.TableManager.resources
+C:\Users\Admin\Desktop\tailieuhoctap\ki2nam3\nmcnpm\final\final\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\tailieuhoctap\ki2nam3\nmcnpm\final\final\giaodien\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+C:\Users\Admin\Desktop\tailieuhoctap\ki2nam3\nmcnpm\final\final\giaodien\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+C:\Users\Admin\Desktop\tailieuhoctap\ki2nam3\nmcnpm\final\finaltimkiem\giaodien\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+C:\Users\Admin\Desktop\tailieuhoctap\ki2nam3\nmcnpm\final\finaltimkiem\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+C:\Users\Admin\Desktop\tailieuhoctap\ki2nam3\nmcnpm\final\finaltimkiem\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+C:\Users\Admin\Desktop\tailieuhoctap\ki2nam3\nmcnpm\final\finaltimkiem\giaodien\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+C:\Users\Admin\Desktop\tailieuhoctap\ki2nam3\nmcnpm\final\finaltimkiem\giaodien\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+C:\Users\Admin\Desktop\tailieuhoctap\ki2nam3\nmcnpm\final\finaltimkiem\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\tailieuhoctap\ki2nam3\nmcnpm\final\finaltimkiem\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.admin.resources
+C:\Users\Admin\Desktop\tailieuhoctap\ki2nam3\nmcnpm\final\finaltimkiem\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Info_Room.resources
+C:\Users\Admin\Desktop\tailieuhoctap\ki2nam3\nmcnpm\final\finaltimkiem\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Form1.resources
+C:\Users\Admin\Desktop\tailieuhoctap\ki2nam3\nmcnpm\final\finaltimkiem\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.LoginForm.resources
+C:\Users\Admin\Desktop\tailieuhoctap\ki2nam3\nmcnpm\final\finaltimkiem\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.PhieuThuePhongForm.resources
+C:\Users\Admin\Desktop\tailieuhoctap\ki2nam3\nmcnpm\final\finaltimkiem\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+C:\Users\Admin\Desktop\tailieuhoctap\ki2nam3\nmcnpm\final\finaltimkiem\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.RoomRentVoucher.resources
+C:\Users\Admin\Desktop\tailieuhoctap\ki2nam3\nmcnpm\final\finaltimkiem\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.TableManager.resources
+C:\Users\Admin\Desktop\tailieuhoctap\ki2nam3\nmcnpm\final\finaltimkiem\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.TraCuuPhg.resources
+C:\Users\Admin\Desktop\tailieuhoctap\ki2nam3\nmcnpm\final\finaltimkiem\giaodien\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.Cache
